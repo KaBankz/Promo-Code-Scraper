@@ -5,8 +5,8 @@
 ###   AS YOU CLEARLY STATE THAT IT IS IN NO WAY AFFILIATED TO        ###
 ###   DEATHHACKZ.                                                    ###
 ###   THIS IS BUILT ON PYTHON 3.7.1                                  ###
-###   MADE ENTIRELY ON WINDOWS 10, OTHER OPERATING SYSTEMS ARE NOT   ###
-###   OFFICIALLY SUPPORTED, BUT MAY WORK.                            ###
+###   MADE ENTIRELY ON WINDOWS 10, BUT SHOULD WORK ON MACOS, OTHER   ###
+###   OPERATING SYSTEMS ARE NOT OFFICIALLY SUPPORTED, BUT MAY WORK.  ###
 ########################################################################
 ########################################################################
 
